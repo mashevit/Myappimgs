@@ -5,6 +5,7 @@
 
 3.select trip
 
-4.fetch data
+4.clear db
 
-5.clear db
+5.fetch data
+
